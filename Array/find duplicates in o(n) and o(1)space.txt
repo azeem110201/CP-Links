@@ -1,0 +1,3 @@
+https://leetcode.com/problems/find-all-duplicates-in-an-array/
+
+sol: https://www.youtube.com/watch?v=aMsSF1Il3IY&ab_channel=NickWhite

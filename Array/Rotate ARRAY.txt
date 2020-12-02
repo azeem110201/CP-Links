@@ -1,0 +1,3 @@
+https://leetcode.com/problems/rotate-image/submissions/
+
+sol: first take the transpose and then swap the first column with last column and so onnnn

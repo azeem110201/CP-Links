@@ -1,0 +1,3 @@
+https://leetcode.com/problems/first-missing-positive/submissions/
+
+sol: https://www.youtube.com/watch?v=9SnkdYXNIzM&t=245s&ab_channel=MichaelMuinos

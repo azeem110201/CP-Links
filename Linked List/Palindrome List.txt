@@ -1,0 +1,3 @@
+https://leetcode.com/problems/palindrome-linked-list/submissions/
+
+sol: https://www.youtube.com/watch?v=wk4QsvwQwdQ&list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-&index=6&ab_channel=NickWhite
